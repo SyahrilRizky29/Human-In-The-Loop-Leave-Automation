@@ -1,4 +1,4 @@
-# Human-in-the-Loop Leave Request & Approval Automation using n8n
+# 📄 Human-in-the-Loop Leave Request & Approval Automation using n8n
 
 Sistem otomasi alur kerja (Workflow Automation) komprehensif untuk menyederhanakan birokrasi pengajuan cuti karyawan. Proyek ini mengintegrasikan **n8n** sebagai orchestrator utama, **Google Sheets** sebagai database terpusat, dan **Gmail API** sebagai antarmuka interaktif, dengan mengusung konsep desain *Human-in-the-Loop* (sistem menangani seluruh administrasi, manusia memegang keputusan final).
 
